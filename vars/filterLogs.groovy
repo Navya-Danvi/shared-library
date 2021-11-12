@@ -8,6 +8,6 @@ def call(String filter_string, int occurrence) {
     if (count > occurrence -1) {
         currentBuild.result='SUCCESS'
     }
-    echo "end"
+    echo "Navya"
 }
 
